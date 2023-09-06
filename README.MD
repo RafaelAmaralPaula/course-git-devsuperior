@@ -1,7 +1,7 @@
 # DOCUMENTATION OF PROJECT
-    - This is a project for sale of products
+- This is a project for sale of products
 
 
 # Owner
-    - @Rafael_Amaral_Paula
-    - Software Engineer
+- @Rafael_Amaral_Paula
+- Software Engineer
